@@ -1,0 +1,3 @@
+admin,admin123,Administrador
+vendedor3,v1234,Vendedor
+admin3,admin1234,Adminsitrador
